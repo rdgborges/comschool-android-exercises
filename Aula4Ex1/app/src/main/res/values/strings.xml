@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Aula4Ex1</string>
+    <string name="first_value">Primeiro valor</string>
+    <string name="second_value">Segundo valor</string>
+    <string name="calculate">Calcular</string>
+    <string name="choose_operation">Escolha a operação</string>
+    <string name="result_is">O resultado é: </string>
+
+</resources>
