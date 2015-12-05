@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Aula6</string>
+    <string name="no_name">Nenhum nome cadastrado</string>
+    <string name="type_name">Digite o nome</string>
+    <string name="store_name">Cadastrar nome</string>
+    <string name="remove_name">Remover nome</string>
+    <string name="settings">Configurações</string>
+    <string name="about">Sobre</string>
+
+</resources>
